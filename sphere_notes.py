@@ -3,6 +3,7 @@ SphereNotes — A visual notes app inspired by Final Fantasy X Sphere Grid.
 Requires: PyQt5
 """
 
+
 import sys
 import os
 import math
