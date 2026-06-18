@@ -152,7 +152,7 @@ class DB:
 
 
 # ─────────────────────────────────────────────
-#  SYMBOL PAINTER  (27 spiritual/esoteric symbols)
+#  SYMBOL PAINTER  (27  symbols)
 # ─────────────────────────────────────────────
 def _star_polygon(cx, cy, r, n, ratio=0.5):
     pts = []
