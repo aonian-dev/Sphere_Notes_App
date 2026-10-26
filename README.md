@@ -2,7 +2,7 @@
 
 ## English (Italian below)
 
-SphereNotes is a visual note-taking application inspired by the Sphere Grid from Final Fantasy X.
+SphereNotes is a visual note-taking application inspired by the in-game Sphere Grid from the 2001 RPG game Final Fantasy X.
 
 Features:
 
